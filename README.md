@@ -13,7 +13,7 @@ Results-driven DevOps Engineer with extensive experience in automating and optim
 ## Skills
 
 - **Languages:** PowerShell, Python
-- **Tools:** EC2, ECS, S3, API Gateway, CloudFront, CloudFormation, SNS, IAM, Elastic Beanstalk, System Manager
+- **Tools:** EC2, ECS, S3, API Gateway, CloudFront, CloudFormation, SNS, IAM, Elastic Beanstalk, Systems Manager
 - **Cloud Platforms:** AWS, Azure
 
 ## Experience
