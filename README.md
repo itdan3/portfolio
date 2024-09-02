@@ -51,4 +51,4 @@ Results-driven DevOps Engineer with extensive experience in automating and optim
 
 ## Contact
 
-Feel free to reach out via [email](mailto:dsavinon3@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to reach out via [email](mailto:dsavinon3@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/dannysavinon/).
